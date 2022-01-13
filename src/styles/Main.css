@@ -1,0 +1,11 @@
+.main{
+    background-color: plum;
+    width: 100%;  
+}
+
+.contenedor-tarjetas{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

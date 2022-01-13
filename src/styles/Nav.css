@@ -1,0 +1,12 @@
+
+.navbar{
+    padding: 20px;
+    background-color: plum;
+  }
+  
+  .nav-bar ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    margin: 15px; 
+  }
